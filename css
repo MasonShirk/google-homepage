@@ -1,0 +1,44 @@
+ul li  {
+  display:  inline-block;
+  marin: 0;
+  padding: 0;
+  hover: underline;
+}
+ul input{
+  background-color: #4683ea;
+  color: #fff;
+  position: relative;
+
+}
+nav{
+  position: relative;
+  left: 850px;
+}
+
+
+a {
+ text-decoration: none;
+ color: black;
+ position: relative;
+
+
+}
+li a:hover{
+  text-decoration: underline;
+}
+
+img{
+  margin-top: 89px;
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
+.searchbar, .search, .lucky{
+
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 92px;
+  min-width: 272px;
+  display: table;
+
+}
